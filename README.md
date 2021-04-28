@@ -1,0 +1,1 @@
+A small spring-boot crud application in console mode, very simple for a beginner.
